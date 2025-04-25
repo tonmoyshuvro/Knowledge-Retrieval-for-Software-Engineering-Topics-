@@ -1,4 +1,4 @@
-# Gemma-7B-IT RAG for Software Engineering Topics
+# Gemma-7B-IT for Software Engineering Topics
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) system using the Gemma-7B-IT model to address software engineering queries. It leverages FAISS for efficient vector search, a cross-encoder for re-ranking, and a dataset of translated prompts to provide accurate, context-aware responses. The system is optimized for GPU acceleration and uses 4-bit quantization to reduce memory usage.
