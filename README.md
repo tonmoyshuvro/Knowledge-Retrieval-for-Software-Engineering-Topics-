@@ -48,9 +48,6 @@ The project includes:
 - Optimize the RAG pipeline for faster inference.
 - Integrate additional models for improved topic classification.
 
-## Contact
-For inquiries, please reach out to [Your Name] at [Your Email].
-
 ---
 
 *This project is designed for academic research and educational purposes, offering a robust framework for exploring software engineering topics with state-of-the-art NLP techniques.*
