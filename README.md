@@ -35,14 +35,10 @@ This project implements a Retrieval-Augmented Generation (RAG) system using the 
 4. Query the system with software engineering questions, e.g., "Name 3/4 software engineering principles."
 
 ## Visualizations
-The project includes:
-- **Bar Chart**: Top 40 frequent topics.
-- **Sunburst Chart**: Hierarchical view of topic frequencies.
+- **Horizontal Bar Chart**: Top frequent topics.
+  ![Horizontal Bar Chart](https://i.postimg.cc/MG21QDwQ/items-with-highest-frequency.png)
 - **Bubble Chart**: Visualizes topic frequency with size and color.
-- **Spider Chart**: Displays topic distribution radially.
-- **Stock Chart**: Simulates frequency trends.
-- **Dendrogram**: Hierarchical clustering of topics.
-
+  ![Bubble Chart](https://i.postimg.cc/gjJhWtVf/bubble-chart.png)
 ## Future Work
 - Enhance the dataset with more diverse software engineering prompts.
 - Optimize the RAG pipeline for faster inference.
