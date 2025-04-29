@@ -1,7 +1,7 @@
 # Gemma-7B-IT for Software Engineering Topics
 
 ## Overview
-This project implements a Retrieval-Augmented Generation (RAG) system using the Gemma-7B-IT model to address software engineering queries. It leverages FAISS for efficient vector search, a cross-encoder for re-ranking, and a dataset of translated prompts to provide accurate, context-aware responses. The system is optimized for GPU acceleration and uses 4-bit quantization to reduce memory usage.
+Utilized the DevGPT dataset and custom chat prompts to optimize semantic retrieval in the software engineering domain. Conducted experiments with the Gemma-7B-it model to explore advanced techniques for semantic retrieval and content summarization. Analyzed various prompt template strategies to improve retrieval quality and identified the most commonly queried topics by software engineers when interacting with ChatGPT. Additionally, employed the BART-large-MNLI model to perform zero-shot classification, enabling the extraction of the top 40 most frequent topics from developer queries.
 
 ## Key Features
 - **Model**: Gemma-7B-IT, a 7-billion parameter language model fine-tuned for instruction tasks.
